@@ -1,0 +1,13 @@
+[project]
+name = "let-them-fight"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "agent-framework>=1.21.0",
+    "agent-framework-anthropic>=1.0.0b261008",
+    "agent-framework-gemini>=1.0.0b261008",
+    "agent-framework-openai>=1.16.0",
+    "python-dotenv>=1.2.4",
+]
